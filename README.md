@@ -155,6 +155,7 @@ Here is a list of third-party **tools** maintained by the community:
 - [Kong image for Tutum](https://github.com/Sillelien/docker-kong)
 - [Kong-UI](https://github.com/msaraf/kong-ui): Admin UI in JavaScript
 - [Konga](https://github.com/Floby/konga-cli): CLI Admin tool in JavaScript
+- [Konga](https://pantsel.github.io/konga/): Another elegant Kong UI in Javascript
 - [Kongfig](https://github.com/mybuilder/kongfig): Declarative configuration in JavaScript
 - [Kongfig on Puppet Forge](https://forge.puppet.com/mybuilder/kongfig)
 - [Puppet recipe](https://github.com/scottefein/puppet-nyt-kong)
@@ -291,7 +292,7 @@ Products, HA, Demo, Training, API Certifications and Professional Services.
 ## License
 
 ```
-Copyright 2016-2017 Mashape, Inc
+Copyright 2016-2017 Kong Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
